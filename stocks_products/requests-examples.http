@@ -2,7 +2,7 @@
 
 
 # создание продукта
-POST http://localhost:8000/api/v1/products/
+POST http://localhost:6060/api/v1/products/
 Content-Type: application/json
 
 {
@@ -13,7 +13,7 @@ Content-Type: application/json
 ###
 
 # получение продуктов
-GET http://localhost:8000/api/v1/products/
+GET http://localhost:6060/api/v1/products/
 Content-Type: application/json
 
 ###
