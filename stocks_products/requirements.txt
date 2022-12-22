@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-filters
+psycopg2-binary
+django-filter
+gunicorn
+docker
